@@ -27,3 +27,5 @@ Add ability to clear/reset the focus
 Include motivational quotes
 
 Allow users to track previous focuses over time
+
+https://daily-focus-dashboard-kjc27hu99-adan-zakaria-ebrahims-projects.vercel.app
